@@ -6,6 +6,9 @@ ShiftMediaProject GMP
 [![GitHub issues](https://img.shields.io/github/issues/ShiftMediaProject/gmp.svg)](https://github.com/ShiftMediaProject/gmp/issues)
 [![license](https://img.shields.io/github/license/ShiftMediaProject/gmp.svg)](https://github.com/ShiftMediaProject/gmp)
 [![donate](https://img.shields.io/badge/donate-link-brightgreen.svg)](https://shiftmediaproject.github.io/8-donate/)
+
+Due to limited time and resources this project is no longer maintained and is provided as an archive only reference.
+
 ## ShiftMediaProject
 
 Shift Media Project aims to provide native Windows development libraries for gmp and associated dependencies to support simpler creation and debugging of rich media content directly within Visual Studio. [https://shiftmediaproject.github.io/](https://shiftmediaproject.github.io/)
